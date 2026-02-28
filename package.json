@@ -1,6 +1,6 @@
 {
   "name": "samuplay",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "main": "index.js",
   "engines": {
     "node": "20.x"
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "discord.js": "^14.14.1",
-    "distube": "^5.0.0",
+    "distube": "^5.0.1",
     "@distube/yt-dlp": "^2.0.1",
     "ffmpeg-static": "^5.2.0",
     "spotify-web-api-node": "^5.0.2",
